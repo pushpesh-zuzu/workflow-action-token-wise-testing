@@ -42,3 +42,5 @@ jobs:
 
 
 4. add PERSONAL_GITHUB_TOKEN token under Repository secrets from repo -> Settings -> Secrets and variables -> Actions
+
+5. keep chabgibg token when it expires
